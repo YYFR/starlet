@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Playfair:ital,wght@1,300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+body {
+    font-family: "Inter";
+    color: #777777;
+}
+
+h2,
+h4 {
+    font-family: "Playfair";
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #9a67f8db;
+}
+
+.logo {
+    float: left;
+    font-size: 150%;
+    color: #9a67f8db;
+}
+
+.logo:hover {
+    font-size: 160%;
+}
+
+.logo,
+#menu {
+    line-height: 75px;
+}
+
+#menu {
+    font-size: 100%;
+    list-style-type: none;
+    letter-spacing: 4px;
+}
+
+#menu li {
+    float: right;
+    margin-right: 35px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #777777;
+}
+
+.active {
+    border-bottom: 1px solid #777777;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url("../images/Property7.jpg") no-repeat center center;
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.2);
+    }
+}
+
+
+#cover-text {
+    color: #130202;
+    font-size: 100%;
+    font-family: "playfair";
+    letter-spacing: 2px;
+
+    width: 500px;
+    height: 150px;
+    padding-top: 25px;
+    padding-left: 10px;
+    background-color: rgba(211, 194, 200, 0.7);
+
+    bottom: 30px;
+    right: 150px;
+    position: absolute;
+}
+
+#reviews {
+    height: 400px;
+}
+
+#left-about {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+#right-about {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+
+#center-about {
+    padding-top: 30px;
+    width: 33%;
+    margin: 0 auto;
+
+}
+
+hr {
+    border-top: 1px solid #777777 width: 100%;
+    margin: 5px 0;
+}
+
+.left-about-heading {
+    width: 50%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading {
+    width: 50%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.center-about-heading {
+    width: 50%;
+    margin: 0 auto;
+    line-height: 20px;
+    margin-bottom: 50px;
+}
+
+#welcome {
+    margin: 25px 0;
+    text-align: center;
+    font-size: 250%;
+}
+
+.contact-button {
+    padding: 20px 40px;
+    font-size: 18px;
+    text-decoration: none;
+    background-color: #CCCC00;
+    color: white;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 25%;
+}
+
+.contact-button:hover {
+    background-color: #FFFF00;
+}
+
+footer {
+    height: 150px;
+}
+
+.social-links {
+    text-align: center;
+}
+
+.social-links li {
+    display: inline;
+}
+
+.social-links i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #9a67f8db;
+}
