@@ -8,13 +8,13 @@
 
 
 body {
-    font-family: "Inter";
+    font-family: "Inter", sans-serif;
     color: #777777;
 }
 
 h2,
 h4 {
-    font-family: "Playfair";
+    font-family: "Playfair", sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
     color: #9a67f8db;
