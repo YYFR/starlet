@@ -5,14 +5,14 @@ Starlet Estates is a website for property management, sales and rental services.
 ## Table of Contents
 
 - [Starlet Estates](#starlet-estates)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [About](#about)
-  - [Wireframes](#wireframes)
-  - [Installation](#installation)
-  - [Problems](#problems)
-  - [Testing](#testing)
-  - [Credit](#credit)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [About](#about)
+- [Wireframes](#wireframes)
+- [Installation](#installation)
+- [Problems](#problems)
+- [Testing](#testing)
+- [Credit](#credit)
 
 ## Introduction
 
@@ -32,7 +32,10 @@ The wireframes for this project can be found in the following links:
 
 ## Installation
 
-Follow this link:
+This is the link to the deployed site on GitHub Pages:
+https://yyfr.github.io/starlet/
+
+This is the link to the source code on my GitHub repository:
 <https://github.com/YYFR/Starlet.git>
 
 ## Problems
@@ -48,16 +51,20 @@ My problem as seen in the Screenshot was that I was trying to create 3 boxes to 
 
 I also struggled with making sure the #cover-text works on smaller devices.
 
+I fixed this fail by removing the section element from the div that was wrapped around the contact-button as it wasn't needed.
+
+- [html test fail](assets/images/htmltestfail.png)
+
 ## Testing
 
-I used https://validator.w3.org to test for bugs in html. Error
+I used https://validator.w3.org to test for bugs in html.
 
-- [css test](assets/images/htmltest.png)
+- [html test](assets/images/htmltest.png)
 
 I used <https://jigsaw.w3.org/css-validator/validator> to test for bugs in css.
 
 - [css test](assets/images/csstest.png)
-  
+
 I also used Lighthouse from Chrome develepor tools.
 
 - [Lighthouse Desktop](assets/images/lighthousedesktop.jpg)
@@ -65,7 +72,7 @@ I also used Lighthouse from Chrome develepor tools.
 
 ## Credit
 
-I looked at previous projects I had works on to gain some inspiration.
+I looked at previous projects I had worked on to gain some inspiration.
 
 <https://www.w3schools.com/> was also a good tool, they also allow you to run small snippets of code to see how they would work.
 Images have been downloaded straight from google chrome.
