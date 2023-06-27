@@ -44,17 +44,24 @@ I have also tried to use Bootstrap in my project, however I only added it in mid
 
 My problem as seen in the Screenshot was that I was trying to create 3 boxes to showcase our services but I was trying to use a table to do that which wasn't ideal.
 
-- [Screenshot of one of my problems](../images/Screenshot.png)
+- [Screenshot of one of my problems](assets/images/Screenshot.png)
 
 I also struggled with making sure the #cover-text works on smaller devices.
 
 ## Testing
 
-I used <https://www.w3schools.com> to test for bugs.
+I used https://validator.w3.org to test for bugs in html. Error
+
+- [css test](assets/images/htmltest.png)
+
+I used <https://jigsaw.w3.org/css-validator/validator> to test for bugs in css.
+
+- [css test](assets/images/csstest.png)
+  
 I also used Lighthouse from Chrome develepor tools.
 
-- [Lighthouse Desktop](../images/lighthousedesktop.jpg)
-- [Lighthouse Mobile](../images/lighthousemobile.jpg)
+- [Lighthouse Desktop](assets/images/lighthousedesktop.jpg)
+- [Lighthouse Mobile](assets/images/lighthousemobile.jpg)
 
 ## Credit
 

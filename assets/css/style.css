@@ -23,12 +23,12 @@ h4 {
 
 .logo {
     float: left;
-    font-size: 150%;
+    font-size: 120%;
     color: #9a67f8db;
 }
 
 .logo:hover {
-    font-size: 160%;
+    font-size: 140%;
 }
 
 .logo,
