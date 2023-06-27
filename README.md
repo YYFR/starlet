@@ -1,39 +1,50 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Starlet Estates
 
-Welcome,
+Starlet Estates is a website for property management, sales and rental services.
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Table of Contents
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+- [Introduction](#introduction)
+- [About](#about)
+- [Wireframes](#wireframes)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Testing](testing)
+- [License](#license)
 
-## Codeanywhere Reminders
+## Introduction
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+This website aims to provide end-to-end management services for rental property portfolios. It helps landlords find suitable tenants, facilitates property purchases, and handles compliance and repairs.
 
-`python3 -m http.server`
+## About
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+I chose to create this website as I had done some work in this field.
+The goal of this site is to reasure and provide peace of mind to landlords, the reviews section shows that they will be in good hands.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## Wireframes
 
-`http_server`
+The wireframes for this project can be found in the following links:
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- [Paper Wireframe](../images/paperwireframes.jpg)
+- [Balsamiq Wireframe](/workspaces/Starlet/assets/images/Home wireframe.png)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Installation
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+To run the project locally, follow these steps:
 
-To log into the Heroku toolbelt CLI:
+1. Clone the repository: `git clone https://github.com/your/repository.git`
+2. Navigate to the project directory: `cd your-project-directory`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Usage
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+Once the project is set up and the development server is running, you can access the website by opening `http://localhost:3000` in your web browser. The website provides information about the services offered by Starlet Estates and allows users to contact the team for inquiries.
 
----
+## Testing
 
-Happy coding!
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
