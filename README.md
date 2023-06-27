@@ -5,14 +5,14 @@ Starlet Estates is a website for property management, sales and rental services.
 ## Table of Contents
 
 - [Starlet Estates](#starlet-estates)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [About](#about)
-  - [Wireframes](#wireframes)
-  - [Installation](#installation)
-  - [Problems](#problems)
-  - [Testing](#testing)
-  - [Credit](#credit)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [About](#about)
+- [Wireframes](#wireframes)
+- [Installation](#installation)
+- [Problems](#problems)
+- [Testing](#testing)
+- [Credit](#credit)
 
 ## Introduction
 
