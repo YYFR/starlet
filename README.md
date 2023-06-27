@@ -39,7 +39,10 @@ Follow this link:
 
 I have had many stressfull problems whilst creating this site.
 Firstly I had been using the terminal incorrectly, which resulted in none of my work being submitted to GitHub for the first part of my project, I luckily didn't lose any of my work. I also stupidly didn't document my problems straight away and relied on remebering my problems which didn't work.
-My problem over there was that I was trying to create 3 boxes to showcase our services but I was trying to use a table to do that which wasn't ideal.
+
+I have also tried to use Bootstrap in my project, however I only added it in middle of the project so it messed up some of the styles that were already working well, so I decided not to include it.
+
+My problem as seen in the Screenshot was that I was trying to create 3 boxes to showcase our services but I was trying to use a table to do that which wasn't ideal.
 
 - [Screenshot of one of my problems](../images/Screenshot.png)
 
