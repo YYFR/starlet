@@ -33,7 +33,7 @@ The wireframes for this project can be found in the following links:
 ## Installation
 
 This is the link to the deployed site on GitHub Pages:
-https://yyfr.github.io/starlet/
+<https://yyfr.github.io/starlet/>
 
 This is the link to the source code on my GitHub repository:
 <https://github.com/YYFR/Starlet.git>
@@ -41,7 +41,7 @@ This is the link to the source code on my GitHub repository:
 ## Problems
 
 I have had many stressfull problems whilst creating this site.
-Firstly I had been using the terminal incorrectly, which resulted in none of my work being submitted to GitHub for the first part of my project, I luckily didn't lose any of my work. I also stupidly didn't document my problems straight away and relied on remebering my problems which didn't work.
+Firstly I had been using the terminal incorrectly, which resulted in none of my work being submitted to GitHub for the first part of my project. I also stupidly didn't document my problems straight away and relied on remebering my problems which didn't work.
 
 I have also tried to use Bootstrap in my project, however I only added it in middle of the project so it messed up some of the styles that were already working well, so I decided not to include it.
 
@@ -75,9 +75,10 @@ I also used Lighthouse from Chrome develepor tools.
 I looked at previous projects I had worked on to gain some inspiration.
 
 <https://www.w3schools.com/> was also a good tool, they also allow you to run small snippets of code to see how they would work.
+
 Images have been downloaded straight from google chrome.
 
 - [FontAwesome](https://fontawesome.com/): The website uses FontAwesome for displaying icons.
 - [Google Fonts](https://fonts.google.com/): The website uses the "Inter" and "Playfair" fonts.
 
-Last but not least Code Institute for providing me with a great facilitator as well as a great mentor and superb Tutor support.
+Last but not least Code Institute for providing me with a great facilitator as well as a great mentor and superb tutor support.
