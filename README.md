@@ -70,15 +70,19 @@ I also used Lighthouse from Chrome develepor tools.
 - [Lighthouse Desktop](assets/images/lighthousedesktop.jpg)
 - [Lighthouse Mobile](assets/images/lighthousemobile.jpg)
 
+I have also tested it in Chrome develepor tools on desktop, tablet and mobile, as well as shared the link with some family and friends who viewed it on desktop and mobile devices.
+
 ## Credit
 
 I looked at previous projects I had worked on to gain some inspiration.
 
 <https://www.w3schools.com/> was also a good tool, they also allow you to run small snippets of code to see how they would work.
 
+I used the Code Institute link https://formdump.codeinstitute.net/ to view submitted data from the contact form.
+
 Images have been downloaded straight from google chrome.
 
 - [FontAwesome](https://fontawesome.com/): The website uses FontAwesome for displaying icons.
-- [Google Fonts](https://fonts.google.com/): The website uses the "Inter" and "Playfair" fonts.
+- [Google Fonts](https://fonts.google.com/): The website uses the "Inter" and "Playfair" fonts with a fallback of sans-serif.
 
 Last but not least Code Institute for providing me with a great facilitator as well as a great mentor and superb tutor support.
