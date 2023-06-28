@@ -21,7 +21,7 @@ This website aims to provide end-to-end management services for rental property 
 ## About
 
 I chose to create this website as I had done some work in this field.
-The goal of this site is to reasure and provide peace of mind to landlords, the reviews section shows that they will be in good hands. This website has been made with a clear goal of providing peace of mind to property owners, which can be seen on the home page and on the services.html page.
+The goal of this site is to reasure and provide peace of mind to landlords, the reviews section shows that they will be in good hands. This website has been made with a clear goal of providing peace of mind to property owners, which can be seen on the home page and on the services.html page. The contact button has been designed as a strong call to action to allow potential customers to get in touch.
 
 ## Wireframes
 
@@ -74,7 +74,7 @@ I have also tested it in Chrome develepor tools on desktop, tablet and mobile, a
 
 ## Credit
 
-I looked at previous projects I had worked on to gain some inspiration.
+I started by looking at a couple of property websites to get a feel for what it should look like, I also looked at previous projects I had worked on to gain some inspiration.
 
 <https://www.w3schools.com/> was also a good tool, they also allow you to run small snippets of code to see how they would work.
 
