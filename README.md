@@ -55,6 +55,10 @@ I fixed this html test fail by removing the section element from the div that wa
 
 - [html test fail](assets/images/htmltestfail.png)
 
+I fixed this contact.html fail by removing the unnecessary body tag as seen in the screenshot below.
+
+- [contact.html test fail](assets/images/contacttest.png)
+
 ## Testing
 
 I used https://validator.w3.org to test for bugs in html.
