@@ -9,7 +9,7 @@ Starlet Estates is a website for property management, sales and rental services.
   - [Introduction](#introduction)
   - [About](#about)
   - [Wireframes](#wireframes)
-  - [Installation](#installation)
+  - [Deployment](#deployment)
   - [Problems](#problems)
   - [Testing](#testing)
   - [Credit](#credit)
@@ -30,13 +30,23 @@ The wireframes for this project can be found in the following links:
 - [Paper Wireframe](assets/images/paperwireframes.jpg)
 - [Balsamiq Wireframe](assets/images/homewireframe.jpg)
 
-## Installation
+## Deployment
+
+To Deploy the site using GitHub Pages:
+
+Login (or signup) to Github.
+Go to the repository for this project, <https://yyfr.github.io/starlet/>.
+Click the settings button.
+Select pages in the left hand navigation menu.
+From the source dropdown select main branch and press save.
+The site has now been deployed, please note that this process may take a few minutes before the site goes live.
 
 This is the link to the deployed site on GitHub Pages:
 <https://yyfr.github.io/starlet/>
 
 This is the link to the source code on my GitHub repository:
 <https://github.com/YYFR/Starlet.git>
+
 
 ## Problems
 
