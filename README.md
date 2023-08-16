@@ -88,6 +88,12 @@ I also used Lighthouse from Chrome develepor tools.
 - [Lighthouse Desktop](assets/images/lighthousedesktop.jpg)
 - [Lighthouse Mobile](assets/images/lighthousemobile.jpg)
 
+I have used responsivedesignchecker.com to test on desktop, tablet and mobile devices.
+
+- [Desktop](assets/images/desktopcheck.png)
+- [Tablet](assets/images/tabletcheck.png)
+- [Mobile](assets/images/mobilecheck.png)
+
 I have also tested it in Chrome develepor tools on desktop, tablet and mobile, as well as shared the link with some family and friends who viewed it on desktop and mobile devices.
 
 ## Credit
