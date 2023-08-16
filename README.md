@@ -16,12 +16,12 @@ Starlet Estates is a website for property management, sales and rental services.
 
 ## Introduction
 
-This website aims to provide end-to-end management services for rental property portfolios. It helps landlords find suitable tenants, facilitates property purchases, and handles compliance and repairs.
+This website aims to provide end-to-end management services for rental property portfolios. It helps landlords find suitable tenants, facilitates property purchases and handles compliance and repairs.
 
 ## About
 
-I chose to create this website as I had done some work in this field.
-The goal of this site is to reasure and provide peace of mind to landlords, the reviews section shows that they will be in good hands. This website has been made with a clear goal of providing peace of mind to property owners, which can be seen on the home page and on the services.html page. The contact button has been designed as a strong call to action to allow potential customers to get in touch.
+I chose to create this website as I had done some work in the property field.
+The goal of this site is to reassure and provide peace of mind to landlords, the reviews section shows that they will be in good hands. This website has been made with a clear goal of providing peace of mind to property owners, which can be seen on the home page and the services.html page. The contact button has been designed as a strong call to action to allow potential customers to get in touch.
 
 ## Wireframes
 
@@ -69,6 +69,10 @@ I fixed this contact.html fail by removing the unnecessary body tag as seen in t
 
 - [contact.html test fail](assets/images/contacttest.png)
 
+I tried to test the responsiveness of my website by using https://responsivedesignchecker.com/ however I received an error message response.
+I fixed this by using the URL from Github Pages and not the URL of the website generated from the coding terminal. 
+
+- [RESPONSIVE DESIGN CHECKER error message](assets/images/Responsivecheck.png)
 ## Testing
 
 I used https://validator.w3.org to test for bugs in html.
@@ -94,7 +98,7 @@ I started by looking at a couple of property websites to get a feel for what it 
 
 I used the Code Institute link https://formdump.codeinstitute.net/ to view submitted data from the contact form.
 
-Images have been downloaded straight from google chrome.
+Images have been downloaded directly from google chrome.
 
 - [FontAwesome](https://fontawesome.com/): The website uses FontAwesome for displaying icons.
 - [Google Fonts](https://fonts.google.com/): The website uses the "Inter" and "Playfair" fonts with a fallback of sans-serif.
