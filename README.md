@@ -23,6 +23,9 @@ This website aims to provide end-to-end management services for rental property 
 I chose to create this website as I had done some work in the property field.
 The goal of this site is to reassure and provide peace of mind to landlords, the reviews section shows that they will be in good hands. This website has been made with a clear goal of providing peace of mind to property owners, which can be seen on the home page and the services.html page. The contact button has been designed as a strong call to action to allow potential customers to get in touch.
 
+First Time Visitors:
+Understand what the site is for and how to navigate the site. A description of what the site is is included on the home page. For more information regarding our services the user can see details of our services on the services.html page. The contact button has been designed to stand out on both pages, as the goal of the site is to attract new clients.
+
 ## Wireframes
 
 The wireframes for this project can be found in the following links:
@@ -73,6 +76,9 @@ I tried to test the responsiveness of my website by using https://responsivedesi
 I fixed this by using the URL from Github Pages and not the URL of the website generated from the coding terminal. 
 
 - [RESPONSIVE DESIGN CHECKER error message](assets/images/Responsivecheck.png)
+  
+
+  
 ## Testing
 
 I used https://validator.w3.org to test for bugs in html.
@@ -88,13 +94,23 @@ I also used Lighthouse from Chrome develepor tools.
 - [Lighthouse Desktop](assets/images/lighthousedesktop.jpg)
 - [Lighthouse Mobile](assets/images/lighthousemobile.jpg)
 
-I have used responsivedesignchecker.com to test on desktop, tablet and mobile devices.
+I have used responsivedesignchecker.com to test on desktop, tablet and mobile devices individually.
 
 - [Desktop](assets/images/desktopcheck.png)
 - [Tablet](assets/images/tabletcheck.png)
 - [Mobile](assets/images/mobilecheck.png)
 
+I viewed the desktop, laptop, tablet and mobile devices on a single page together, at https://ui.dev/amiresponsive 
+
+- [Am I Responsive test](assets/images/amiresponsive.png)
+
 I have also tested it in Chrome develepor tools on desktop, tablet and mobile, as well as shared the link with some family and friends who viewed it on desktop and mobile devices.
+
+MANUAL TESTING:
+
+Logo navigation: The logo responds by becoming larger when hovering over it and takes you back to the Home page when clicked on.
+
+
 
 ## Credit
 
