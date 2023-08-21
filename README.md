@@ -108,9 +108,21 @@ I have also tested it in Chrome develepor tools on desktop, tablet and mobile, a
 
 MANUAL TESTING:
 
-Logo navigation: The logo responds by becoming larger when hovering over it and takes you back to the Home page when clicked on.
+Logo: The logo responds by becoming larger when hovering over it and takes you back to the Home page when clicked on.
 
+Navigation Menu: All links have been tested and take you to the right page. The Navigation Menu is displayed on all 3 pages of the website to be able to move around between pages easily, without using the back button.
 
+Background Image: The images reflect on the property theme of the site and load nicely on all pages. It also includes a zoom animation on the Home and Services page.
+
+Background Image Text: The text is clearly visible and can be clearly seen on all devices. On the Contact page, the form is clearly displayed and matches the color scheme of the image.
+
+Reviews: The reviews match the color of the Logo and are clearly visible on all devices.
+
+Services: The Services section matches the color of the Logo and Contact button and stacks nicely when viewd on smaller devices as opposed to side by side when viewed on larger devices.
+
+Contact Button: The Contact Button works on all pages and changes color when hovered over. The button has been designed to stand out nicely to attract potential clients to send their contact details.
+
+Social Media Links: The links are consistent on all pages and have been tested to make sure they open in a new window.
 
 ## Credit
 
